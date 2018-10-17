@@ -1,0 +1,3 @@
+class PixelProjects::Shot
+
+end
